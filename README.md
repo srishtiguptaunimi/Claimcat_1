@@ -10,7 +10,8 @@ Claimcat_1 is an AI-driven complaint categorization system designed to assist **
 ✅ **AWS Lambda & SageMaker-based deployment**  
 
 ## 🏗 System Architecture
-![System Architecture](docs/system_architecture.png) *(Replace with an actual diagram)*  
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/0f8355cc-d28e-4704-89c1-9a8af9019e3c" />
+ 
 - **Frontend**: Users submit complaints via web forms, emails, or letters.  
 - **Backend**: AWS Lambda processes the request and sends it to **SageMaker** for inference.  
 - **AI Model**: NLP-based classifier predicts complaint categories with confidence scores.  
