@@ -87,7 +87,7 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact & Support
-For questions, reach out via **GitHub Issues** or email: `srishtigupta@example.com` 
+For questions, reach out via **GitHub Issues** or email: `srishtigupta@studenti.unimi.it` 
 
 ## 🚀 Future Enhancements
 - ✅ Improve **multi-label classification** for complex complaints.
